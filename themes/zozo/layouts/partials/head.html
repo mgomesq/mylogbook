@@ -8,9 +8,7 @@
 	{{ $title := ( .Title ) }}
 	{{ $siteTitle := ( .Site.Title ) }}
 	{{ if .IsHome }}
-	<title><figure>
-        <img src="/img/mauri.jpeg" alt="Minha Figura" width=100><figcaption>Me</figcaption>
-    </figure>
+	<title>
     {{ $siteTitle }} {{ if isset .Site.Params "subtitle" }}｜ {{ .Site.Params.Subtitle }}{{ end }} </title>
 	{{ else }}
 	<title>{{ $title }} ｜ {{ $siteTitle }}</title>
