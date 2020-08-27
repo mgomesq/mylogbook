@@ -1,4 +1,4 @@
-baseURL = "maugomes.netlify.app"
+baseURL = "https://maugomes.netlify.app/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Mauricio's Log Book"                         # site title  # 网站标题
