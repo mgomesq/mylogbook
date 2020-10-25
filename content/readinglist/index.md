@@ -19,6 +19,7 @@ Recommend me a book! Send an email to [mau.gomes@hotmail.com](mailto:mau.gomes@h
 ## 2020
 |           Name           |           Author          | Publication Year |
 |:-------------------------|:-------------------------:|:----------------:|
+| Budapest                 | Chico Buarque           | 2003             |
 | Regarding the Pain of Others| Susan Sontag           | 2003             |
 | My Sweet Orange Tree     | José Mauro de Vasconcelos | 1968             |
 | The Little Prince        | Antoine de Saint-Exupéry  | 1959             |
