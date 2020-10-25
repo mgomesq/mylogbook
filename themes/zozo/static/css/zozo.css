@@ -154,7 +154,7 @@ hr {
 
 .header .site_title_container .site_title a {
   font-size: 28px;
-  width: 500px;
+  width: auto;
   letter-spacing: 2px;
   line-height: 1.2;
   color: #000000;
@@ -176,7 +176,7 @@ hr {
 }
 
 .header .site_title_container .description .sub_title {
-  width: 500px;
+  width: auto;
   font-weight: normal !important;
   float: left !important;
   text-align: left;
@@ -351,6 +351,10 @@ hr {
 
 .footer a:hover {
   color: #1f1f1f;
+}
+
+.footer img {
+  width: 90%;;
 }
 
 .footer .powered_by {
