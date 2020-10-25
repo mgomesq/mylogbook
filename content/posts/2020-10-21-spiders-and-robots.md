@@ -34,3 +34,6 @@ Conclusion
 Nowadays there are many extremely useful applications involving web crawling and web scraping. Think of all the information that is available online, waiting to be scraped and analyzed!  
 
 Whether or not it fits your needs right now, the techniques discussed here are becoming increasingly a part of every business decision, and though vast in possibilities, one should tread carefully to not fall into legal traps.
+
+### Other sources   
+This post I wrote is also available [here](https://poatek.com/2020/10/21/spiders-and-robots-web-crawling-and-scraping/)
