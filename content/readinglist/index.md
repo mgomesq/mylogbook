@@ -16,6 +16,11 @@ tr:hover {background-color: #f5f5f5;}
 
 Recommend me a book! Send an email to [mau.gomes@hotmail.com](mailto:mau.gomes@hotmail.com) and let's have a chat.
 
+## 2021
+|           Name           |           Author          | Publication Year |
+|:-------------------------|:-------------------------:|:----------------:|
+| The Lord of The Rings -The Fellowship of the Ring | J. R. R. Tolkien          | 1954             |
+
 ## 2020
 |           Name           |           Author          | Publication Year |
 |:-------------------------|:-------------------------:|:----------------:|
