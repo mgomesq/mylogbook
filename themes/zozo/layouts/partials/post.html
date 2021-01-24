@@ -3,6 +3,8 @@
 <div class="post animated fadeInDown">
     <div class="post_title">
         <h2><a href='{{ .RelPermalink }}'>{{ .Title }}</a></h2>
+        <img src="img/banners/image_{{ .Date.Format "2006_01_02" }}.png"> 
+
     </div>
     {{ if .Site.Params.enableSummary }}
     <div class="list">
