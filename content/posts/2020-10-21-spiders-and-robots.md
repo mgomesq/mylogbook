@@ -10,7 +10,6 @@ keywords:
     - web
 ---
 
-## Introduction
 Many people still get confused about what is web scraping and web crawling, and if you are one of them, don’t worry, that’s ok. Even though it is all about extracting data from the web, there are differences between them, and knowing them will make you best suited for the future. In this article, I will present the definitions and how they can be applied. 
 
 Web scraping is an automated gathering of data from internet websites. Think of opening a web browser to see your favorite movie rating on a review website, only it is not you who is fetching that information but a computer program. As a rule of thumb, if you can see it in your browser, you can use a program to access, store, and analyze it. By using a computer, large amounts of data can be obtained (scraped) from internet pages rather quickly. One common usage is in sentiment analysis of scraped data from forums and social media.  
