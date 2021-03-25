@@ -19,6 +19,7 @@ Recommend me a book! Send an email to [mau.gomes@hotmail.com](mailto:mau.gomes@h
 ## 2021
 |           Name           |           Author          | Publication Year |
 |:-------------------------|:-------------------------:|:----------------:|
+| How to Think like a Roman Emperor | Donald Robertson | 2019 |
 | The Lord of The Rings -The Fellowship of the Ring | J. R. R. Tolkien          | 1954             |
 
 ## 2020

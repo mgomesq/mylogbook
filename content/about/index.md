@@ -28,7 +28,8 @@ I'm currently finishing my bachelor's degree at Universidade Federal do Rio Gran
 
 |                      |                                       |
 |:---------------------|--------------------------------------:|
-|(03-2020 -> _Current_)|Data Scientist Intern at **Poatek**    |
+|(02-2021 -> _Current_)|Data Scientist at **Poatek**    |
+|(03-2020 -> 02-2021)  |Data Scientist Intern at **Poatek**    |
 |(08-2019 -> 03-2020)  |Data Scientist Intern at **Hospital de Clínicas of Porto Alegre**|
 |(09-2015 -> 07-2019)  |Bioinformatics Researcher at **Children's Cancer Institute of Porto Alegre**|
 |(04-2015 -> 07-2017)  |Nanoparticle researcher at **UFRGS Physics Institute**|
