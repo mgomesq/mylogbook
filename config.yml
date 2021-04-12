@@ -1,0 +1,119 @@
+baseURL: "https://maugomes.netlify.app/"
+title: "Mauricio's Log Book"
+paginate: 5
+theme: PaperMod
+
+languages:
+    en:
+        title: Mauício's Log Book
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+            - name: Posts
+              url: posts
+              weight: 5
+            - name: Reading List
+              url: readinglist
+              weight: 10
+            - name: About me
+              url: about
+              weight: 15
+            - name: Archives
+              url: archives
+
+        profileMode:
+            enabled: true # needs to be explicitly set
+            title: Hi there!
+            subtitle: "
+          ️  Data Scientist |️ Engineering Physicist   
+
+
+           This is my log book and portfolio, here I'll document some projects and articles. I'll also write on what I'm passionate about and what I study. 
+
+            
+            Feel free to look around!"
+            imageUrl: "/img/mauri.jpeg"
+            imageWidth: 129 
+            imageHeight: 129
+            imageTitle: That's me
+
+            buttons:
+                - name: Posts
+                  url: posts
+                - name: Tags
+                  url: tags
+                - name: About Me
+                  url: about
+
+    pt:
+        title: Anotações do Maurício
+        languageName: "Português"
+        weight: 2
+        menu:
+            main:
+            - name: Postagens
+              url: posts
+              weight: 5
+            - name: Lista de Leituras
+              url: readinglist
+              weight: 10
+            - name: Quem eu sou
+              url: about
+              weight: 15
+            - name: Arquivos
+              url: archives
+
+        profileMode:
+            enabled: true
+            imageUrl: "/img/mauri.jpeg"
+            imageWidth: 130 
+            imageHeight: 130
+            imageTitle: That's me
+
+            title: E aí, tudo bem?
+            subtitle: "
+          ️  Cientista de Dados |️ Engenheiro Físico 
+           
+
+            Oi! Este é meu portfolio e livro de anotações, aqui vou documentar alguns projetos e posts. Também vou escrever sobre o que eu gosto e estudo. 
+            
+
+            Dê uma olhada!"
+            buttons:
+                - name: Posts
+                  url: posts
+                - name: Tags
+                  url: tags
+                - name: Quem eu sou
+                  url: about
+
+
+enableEmoji: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: "UA-176567472-1"
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: "Maurício's Log Book"
+    description: "Hey there! This is my log book and portfolio, here I'll document some projects and articles. I'll also write on what I'm passionate about and what I study. Feel free to look around!"
+    keywords: [Blog, Portfolio, Mauricio, Data Science]
+    author: Maurício Gomes
+    
+    # profile-mode
+    socialIcons:
+        - name: github
+          url: "https://github.com/maugomesqueiroz"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/maugomesqueiroz/"
+          
+    ShowReadingTime: true
+    

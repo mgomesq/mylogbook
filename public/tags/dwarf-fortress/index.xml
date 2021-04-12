@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dwarf Fortress on Mauício&#39;s Log Book</title>
+    <link>https://maugomes.netlify.app/tags/dwarf-fortress/</link>
+    <description>Recent content in Dwarf Fortress on Mauício&#39;s Log Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 14 Aug 2020 09:00:00 +0000</lastBuildDate><atom:link href="https://maugomes.netlify.app/tags/dwarf-fortress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Scraping in Python - Scraping Dwarf Fortress Creatures</title>
+      <link>https://maugomes.netlify.app/posts/2020-08-14-scrapy-dwarf-fortress/</link>
+      <pubDate>Fri, 14 Aug 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://maugomes.netlify.app/posts/2020-08-14-scrapy-dwarf-fortress/</guid>
+      <description>Dwarf Fortress I&amp;rsquo;ve lately been caught up in playing Dwarf Fortress with my brother. The game is a single-player simulation where you control a dwarven outpost in a randomly generated world 1.
+It&amp;rsquo;s a rough game, really challenging. Nonetheless, fun. The way we would play it is one of us would open the Dwarf Fortress Wiki 2 and feed the other, who&amp;rsquo;s actually controlling the game, informations about it&amp;rsquo;s world.</description>
+    </item>
+    
+  </channel>
+</rss>

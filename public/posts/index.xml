@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mauício&#39;s Log Book</title>
+    <link>https://maugomes.netlify.app/posts/</link>
+    <description>Recent content in Posts on Mauício&#39;s Log Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maugomes.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Instacrawler Library</title>
+      <link>https://maugomes.netlify.app/posts/2021-01-24-instacrawler/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maugomes.netlify.app/posts/2021-01-24-instacrawler/</guid>
+      <description>Instacrawler: Simple crawler for Instagram using Python Instacrawler is a simple library designed to fetch information from Instagram website.
+Key characteristics:
+ Can obtain follower, following and posts count Scrape comments from posts Simple to use or modify Written using Selenium  Quick Start Getting the sources git clone https://github.com/maugomesqueiroz/python_instacrawler.git cd python_instacrawler Performing Login If we wish to provide login information:
+from src.crawler_pageobjects import InstagramLoginPage login_info = {&amp;#39;username&amp;#39;: &amp;#39;MyUser&amp;#39;, &amp;#39;password&amp;#39;: &amp;#39;12345&amp;#39;} crawler = InstagramLoginPage() crawler.</description>
+    </item>
+    
+    <item>
+      <title>Spiders and Robots? Web Crawling and Scraping!</title>
+      <link>https://maugomes.netlify.app/posts/2020-10-21-spiders-and-robots/</link>
+      <pubDate>Wed, 21 Oct 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://maugomes.netlify.app/posts/2020-10-21-spiders-and-robots/</guid>
+      <description>Many people still get confused about what is web scraping and web crawling, and if you are one of them, don’t worry, that’s ok. Even though it is all about extracting data from the web, there are differences between them, and knowing them will make you best suited for the future. In this article, I will present the definitions and how they can be applied.
+Web scraping is an automated gathering of data from internet websites.</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping in Python - Scraping Dwarf Fortress Creatures</title>
+      <link>https://maugomes.netlify.app/posts/2020-08-14-scrapy-dwarf-fortress/</link>
+      <pubDate>Fri, 14 Aug 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://maugomes.netlify.app/posts/2020-08-14-scrapy-dwarf-fortress/</guid>
+      <description>Dwarf Fortress I&amp;rsquo;ve lately been caught up in playing Dwarf Fortress with my brother. The game is a single-player simulation where you control a dwarven outpost in a randomly generated world 1.
+It&amp;rsquo;s a rough game, really challenging. Nonetheless, fun. The way we would play it is one of us would open the Dwarf Fortress Wiki 2 and feed the other, who&amp;rsquo;s actually controlling the game, informations about it&amp;rsquo;s world.</description>
+    </item>
+    
+  </channel>
+</rss>

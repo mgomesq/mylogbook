@@ -14,6 +14,10 @@ table   {font-size: 0.8rem;
 tr:hover {background-color: #f5f5f5;}
 </style>
 
+> ### Curently Reading: Ultralearning - Scott H Young 
+
+# Past reads
+
 Recommend me a book! Send an email to [mau.gomes@hotmail.com](mailto:mau.gomes@hotmail.com) and let's have a chat.
 
 ## 2021
@@ -48,7 +52,6 @@ Recommend me a book! Send an email to [mau.gomes@hotmail.com](mailto:mau.gomes@h
 | The Handmaid's Tale          | Margaret Atwood        | 1985             |
 | Gone Girl                    | Gillian Flynn          | 2012             |
 | Modern Romance               | Aziz Ansari            | 2015             |
-| The Drunkard's Walk          | Leonard Mlodinow       | 2008             |
 
 ## 2018
 |                    Name                   |      Author      | Publication Year |
@@ -63,8 +66,6 @@ Recommend me a book! Send an email to [mau.gomes@hotmail.com](mailto:mau.gomes@h
 | Estação Carandiru                         | Drauzio Varella  | 1999             |
 | The Godfather                             | Mario Puzo       | 1969             |
 | Endurance: Shackleton's Incredible Voyage | Alfred Lansing   | 1959             |
-| Surely You're Joking, Mr. Feynman!        | Richard Feynman  | 1985             |
-| The Drunkard's Walk                       | Leonard Mlodinow | 2008             |
 
 ## 2017
 |                    Name                   |           Author           | Publication Year |
