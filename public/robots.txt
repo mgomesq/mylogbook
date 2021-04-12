@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://maugomes.netlify.app/sitemap.xml
