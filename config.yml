@@ -1,4 +1,5 @@
-baseURL: "https://maugomes.netlify.app/"
+#baseURL: "https://maugomes.netlify.app/"
+baseURL: "https://mgomesq.com/"
 title: "Mauricio's Log Book"
 paginate: 5
 theme: PaperMod
