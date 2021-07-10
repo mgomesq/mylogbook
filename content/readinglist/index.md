@@ -14,7 +14,7 @@ table   {font-size: 0.8rem;
 tr:hover {background-color: #f5f5f5;}
 </style>
 
-> ### Curently Reading: Ultralearning - Scott H Young 
+> ### Curently Reading: Sidarta - Hermann Hesse
 
 # Past reads
 
@@ -23,6 +23,8 @@ Recommend me a book! Send an email to [mau.gomes@hotmail.com](mailto:mau.gomes@h
 ## 2021
 |           Name           |           Author          | Publication Year |
 |:-------------------------|:-------------------------:|:----------------:|
+| Weapons of Math Destruction | Cathy O'Neil | 2016 |
+| Ultralearning | Scott H. Young | 2019 |
 | How to Think like a Roman Emperor | Donald Robertson | 2019 |
 | The Lord of The Rings -The Fellowship of the Ring | J. R. R. Tolkien          | 1954             |
 

@@ -19,6 +19,8 @@ Me recomende um livro! Manda um e-mail pra [mau.gomes@hotmail.com](mailto:mau.go
 ## 2021
 |           Nome           |           Autor          | Ano de Publicação |
 |:-------------------------|:-------------------------:|:----------------:|
+| Algoritmos de Destruição em Massa| Cathy O'Neil | 2016 |
+| Ultra Aprendizado | Scott H. Young | 2019 |
 | Pense Como um Imperador  | Donald Robertson | 2019 |
 | O Senhor dos Aneis - A Sociedade do Anel | J. R. R. Tolkien          | 1954             |
 
