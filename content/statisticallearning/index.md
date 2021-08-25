@@ -12,6 +12,6 @@ It will serve me good in reinforcing what I learn.
 
 ### Chapters
 
-2.1 [What Is Statistical Learning](../study_notes/statistical-learning-2-1)
+2 [What Is Statistical Learning](../study_notes/statistical-learning-2-1)
 
-2.2 [Assessing Model Accuracy](../study_notes/statistical-learning-2-2)
+3 [Linear Regression](../study_notes/statistical-learning-3)
