@@ -20,11 +20,8 @@ tr:hover {background-color: #f5f5f5;}
     <img src="/img/mauri.jpeg" alt="Minha Figura" width=100><figcaption>Me</figcaption>
 </figure>
 
-> Hi, my name is Maurício Gomes! (你可以叫我**莫子恒**) I'm an **Engineering Physicist** working with **Data Science**. 
+> Hi, my name is Maurício Gomes! I'm an **Engineering Physicist** working with **Data Science**. 
 
-
-I'm currently finishing my bachelor's degree at Universidade Federal do Rio Grande Do Sul (UFRGS) in Brazil.
-我很喜欢中文，我现在学汉语了三年了。
 
 |                      |                                       |
 |:---------------------|--------------------------------------:|

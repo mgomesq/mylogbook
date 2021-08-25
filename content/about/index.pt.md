@@ -23,7 +23,6 @@ tr:hover {background-color: #f5f5f5;}
 
 > Oi, eu me chamo Maurício Gomes! Sou um **Engenheiro Físico** trabalhando com **Data Science**. 
 
-Atualmente estou finalizando meu bacharelado na Universidade Federal do Rio Grande do Sul (UFRGS) no Brasil.
 
 |                      |                                       |
 |:---------------------|--------------------------------------:|
