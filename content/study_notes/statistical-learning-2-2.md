@@ -1,7 +1,7 @@
 ---
 title: 2.2 - Acessing Model Accuracy
 date: 2021-07-11 12:00:00
-draft: false
+draft: true
 ---
 
 In order to evaluate the performance of a model we need to, in some way, measure

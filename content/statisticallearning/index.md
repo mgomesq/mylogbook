@@ -14,4 +14,6 @@ It will serve me good in reinforcing what I learn.
 
 2 [What Is Statistical Learning](../study_notes/statistical-learning-2-1)
 
-3 [Linear Regression](../study_notes/statistical-learning-3)
+3.1 [Simple Linear Regression](../study_notes/statistical-learning-3-1)
+
+3.2 [Multiple Linear Regression](../study_notes/statistical-learning-3-2)
