@@ -1,7 +1,9 @@
 ---
-title: Study Notes - Introduction to Statistical Learning
+title: An Introduction to Statistical Learning 
 date: 2021-07-09 18:00:00
 ---
+
+## Study Notes
 
 Here are organized my study notes on the 'An Introduction to Statistical Learning Book'.
 This is an awesome book! The reading flows very smoothly between the pages.
